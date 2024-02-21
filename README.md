@@ -2,7 +2,7 @@
 
 This project was bootstrapped with Create React App  - [Demo App](https://Joseph.NFT.vercel.app/).
 
-![Screenshot](/Mint NFT Dapp/RoboPunksNFT-mint-website/src/assets/ScreenShot.png)
+![Screenshot](https://imgur.com/EgOJLf2)
 
 ## Available Scripts
 
