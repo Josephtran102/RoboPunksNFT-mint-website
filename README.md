@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with Create React App  - [Demo App](https://jose-uniswap.vercel.app/).
+This project was bootstrapped with Create React App  - [Demo App](https://Joseph.NFT.vercel.app/).
 
-![Screenshot](src/assets/ScreenShot.png)
+![Screenshot](/Mint NFT Dapp/RoboPunksNFT-mint-website/src/assets/ScreenShot.png)
 
 ## Available Scripts
 
