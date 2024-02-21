@@ -2,7 +2,7 @@
 
 This project was bootstrapped with Create React App  - [Demo App](https://Joseph.NFT.vercel.app/).
 
-![Screenshot](https://imgur.com/EgOJLf2)
+![Screenshot](https://i.imgur.com/EgOJLf2.png)
 
 ## Available Scripts
 
