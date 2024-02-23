@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with Create React App  - [Demo App](https://Joseph.NFT.vercel.app/).
+This project was bootstrapped with Create React App  - [Demo App](https://joseph-nft-mint-website.vercel.app).
 
 ![Screenshot](https://i.imgur.com/EgOJLf2.png)
 
